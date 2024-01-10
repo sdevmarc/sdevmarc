@@ -12,7 +12,7 @@
  
  🔭 I’m currently an undergraduate student in **college**
  
- 🌱 I’m currently learning **Mern Stack, API, JWT**
+ 🌱 I’m currently learning **Mern Stack, Mobile Dev: React Native, Java, Kotlin**
  
  </div>
  
