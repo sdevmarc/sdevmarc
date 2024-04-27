@@ -12,7 +12,7 @@
  
  🔭 I am an undergraduate student
  
- 🌱 I’m currently learning **Mern Stack, Mobile Dev: React Native, Java, Kotlin**
+ 🌱 I’m currently learning **Typescript**
  
  </div>
  
