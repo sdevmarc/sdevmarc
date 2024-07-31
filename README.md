@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I am an undergraduate student
+ 🔭 An undergraduate student
  
- 🌱 I’m currently learning **Typescript**
+ 🌱 Currently learning **Typescript**
  
  </div>
  
