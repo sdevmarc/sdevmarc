@@ -12,7 +12,7 @@
  
  🔭 An undergraduate student
  
- 🌱 Currently learning **Typescript**
+ 🌱 Currently learning **Springboot**
  
  </div>
  
