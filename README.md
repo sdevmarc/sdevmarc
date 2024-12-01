@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 An undergraduate student
+ 🔭 A graduating student
  
  🌱 Currently learning **Springboot**
  
