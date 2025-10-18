@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Marc Edison Suarez</h1>
   <p>
-    💻 <b>Full-Stack Developer</b> | 🧩 <b>Technical Consultant</b> | ⚙️ <b>Software Engineer</b><br>
+    💻 <b>Junior Full-Stack Developer</b> | 🧩 <b>Technical Consultant</b> | ⚙️ <b>Software Engineer</b><br>
     📍 Philippines<br>
     📧 <a href="mailto:marcedisonsuarez@outlook.com">marcedisonsuarez@outlook.com</a> |
     🔗 <a href="https://www.linkedin.com/in/sdevmarc">linkedin.com/in/sdevmarc</a>
