@@ -3,7 +3,7 @@
   <p>
     💻 <b>Junior Full-Stack Developer</b> | 🧩 <b>Technical Consultant</b> | ⚙️ <b>Software Engineer</b><br>
     📍 Philippines<br>
-    📧 <a href="mailto:marcedisonsuarez@outlook.com">hello@sdevmarc.work</a> |
+    📧 <a href="mailto:hello@sdevmarc.work">hello@sdevmarc.work</a> |
     🔗 <a href="https://www.linkedin.com/in/sdevmarc">linkedin.com/in/sdevmarc</a>
   </p>
 </div>
