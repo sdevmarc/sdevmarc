@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Marc Edison Suarez</h1>
   <p>
-    💻 <b>Junior Full-Stack Developer</b> | 🧩 <b>Technical Consultant</b> | ⚙️ <b>Software Engineer</b><br>
+    💻 <b>Lead Developer</b> | 🧩 <b>Technical Consultant</b> | ⚙️ <b>Software Engineer</b><br>
     📍 Philippines<br>
     📧 <a href="mailto:hello@sdevmarc.work">hello@sdevmarc.work</a> |
     🔗 <a href="https://www.linkedin.com/in/sdevmarc">linkedin.com/in/sdevmarc</a>
@@ -19,7 +19,7 @@ With experience across **React**, **Node.js**, **NestJS**, and **Docker**, I enj
 
 ### 🧰 Tech Stack
 **Languages & Frameworks:**  
-JavaScript / TypeScript, C#, VB.NET, Node.js, Express.js, NestJS  
+JavaScript / TypeScript, .NET, Node.js, Express.js, NestJS  
 
 **Frontend:**  
 React.js, Next.js, React Native (Expo), Tailwind CSS, Material UI, Bootstrap  
